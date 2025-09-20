@@ -10,27 +10,37 @@ It is based on the [Start Bootstrap Resume](https://startbootstrap.com/theme/res
 
 [![Portfolio Preview](src/assets/img/Preview.PNG)](https://preethigajeganathan.github.io/Start-Bootstrap-Resume/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://preethigajeganathan.github.io/Start-Bootstrap-Resume/**
+
+---
 
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 
-## Download and Installation
+---
 
-To begin using this template, choose one of the following options to get started:
+## 📂 Installation & Setup
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
+To run this project locally on your system:
+
+```bash
+# Clone this repository
+git clone https://github.com/Preethigajeganathan/Bootstrap-Portfolio.git
+
+# Navigate to the project folder
+cd Bootstrap-Portfolio
+
+# Open the index.html file in your browser
+
+```
 
 ## Usage
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading, simply edit the HTML and CSS files . These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
 
@@ -49,9 +59,6 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 You must have npm installed in order to use this build environment.
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
 
 ## About
 
