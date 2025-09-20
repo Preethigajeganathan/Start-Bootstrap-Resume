@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Portfolio Preview](assets/img/Preview.PNG)](https://preethigajeganathan.github.io/Start-Bootstrap-Resume/)
+[![Portfolio Preview](src/assets/img/Preview.PNG)](https://preethigajeganathan.github.io/Start-Bootstrap-Resume/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
