@@ -1,6 +1,10 @@
 # [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+This is my **personal resume website** built using [Bootstrap](https://getbootstrap.com/) and customized to highlight my profile as a **fresher web developer**.  
+The site showcases my **skills**, **education**, **projects**, and **interests** in a clean, responsive layout.  
+It is based on the [Start Bootstrap Resume](https://startbootstrap.com/theme/resume/) template.
+
+---
 
 ## Preview
 
